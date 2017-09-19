@@ -25,18 +25,18 @@ public class SortBall {
 
 			new Sort(vector, 0, vector.length -1);
 
-			String resultado = "";
+			String result = "";
 
 			for (int i = 0; i < vector.length; i++) 
 			{
-				if(resultado.isEmpty()){
-					resultado = "" + vector[i];
+				if(result.isEmpty()){
+					result = "" + vector[i];
 				} else {
-					resultado = resultado + ", " + vector[i];
+					result = result + ", " + vector[i];
 				}
 			}
 
-			System.out.println(resultado);	    
+			System.out.println(result);	    
 		}
 		catch (java.util.InputMismatchException e)
 		{
