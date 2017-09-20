@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 This is a Techbiosis Test - Sorting Balls and Spell it out exercises made by Java project.
 
 Exercise 1: Sorting Balls. 
@@ -19,11 +19,11 @@ Write a program which given a whole number between 0 and 1 billion; writes it ou
 23212 twenty-three thousand two hundred twelve
 1049875: one million forty-nine thousand eight hundred seventy-five
 
-#Running the tests
+# Running the tests
 There are two JUnit classes for each exercise: SortTest and ConvertNumberToWordTest.
 
-#Thanks
+# Thanks
 Thanks to Techbiosis for giving me an opportunity to prove myself that I can do something I don't know.
 
-#Authors
+# Authors
 Bruna Vita Ashton
