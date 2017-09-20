@@ -19,6 +19,9 @@ Write a program which given a whole number between 0 and 1 billion; writes it ou
 23212 twenty-three thousand two hundred twelve
 1049875: one million forty-nine thousand eight hundred seventy-five
 
+# Running classes
+There are two running classes for each exercise: SortBall and NumberToWord.
+
 # Running the tests
 There are two JUnit classes for each exercise: SortTest and ConvertNumberToWordTest.
 
