@@ -1,4 +1,4 @@
-package techbiosis;
+package techbiosis.sort;
 
 import java.util.Scanner;
 
